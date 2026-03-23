@@ -1,2 +1,2 @@
 # RandomProjects
-On this repository you can see some random projects that i made someday.
+In this repository, you can see some random projects that I made at some point.
